@@ -1,7 +1,5 @@
-
-<h1 align="center">
 # Boruta Feature Selection in R
-</h1>
+
 
 본 repo는 보루타 알고리즘을 이용한 변수 선택 방법을 R의 Boruta package를 이용하여 실습한 것입니다. 
 [Boruta](https://eeyem.github.io/Boruta/Boruta.html)을 클릭하면 tutorial이 제시됩니다. 
